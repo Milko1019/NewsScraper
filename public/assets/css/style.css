@@ -1,0 +1,18 @@
+.jumbotron{
+  width: 100%;
+  background-image: url("https://www.obriengrouparena.com.au/images/made/images/uploads/main/m3091a_6490_©TrevorMein2015_1240_500_80_s_c1.jpg");
+}
+
+#scrape{
+  margin-top: 9px;
+}
+
+body{
+  background-color: gray;
+  color: black;
+  background-image: url("http://www.lmhf.qc.ca/wp-content/uploads/2015/04/back_form.jpg");
+}
+
+h4{
+  color: black;
+}
