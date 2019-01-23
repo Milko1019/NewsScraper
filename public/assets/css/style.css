@@ -1,9 +1,14 @@
 .jumbotron{
   width: 100%;
   background-image: url("https://www.obriengrouparena.com.au/images/made/images/uploads/main/m3091a_6490_©TrevorMein2015_1240_500_80_s_c1.jpg");
+  opacity: 0.92;
 }
 
 #scrape{
+  margin-top: 9px;
+}
+
+#clear{
   margin-top: 9px;
 }
 
